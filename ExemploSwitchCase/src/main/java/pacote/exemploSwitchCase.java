@@ -1,3 +1,5 @@
+package pacote;
+
 import java.util.Scanner;
 
 public class exemploSwitchCase {
